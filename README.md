@@ -1,1 +1,7 @@
-# data_analytics_certification
+This repository contains projects and visualizations created from the Data Science & Analytics program with SDSU
+
+## SQL
+
+## Statistics
+
+## Visual Communications
